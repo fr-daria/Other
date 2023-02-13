@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static String[] products = { "Хлеб", "Пачка гречки", "Упаковка яиц", "Мороженка" };
+    public static String[] products = { "Хлеб", "Пачка гречи", "Упаковка яиц", "Мороженка" };
     public static int[] prices = { 50, 135, 65, 53 };
     public static int MIN_COST_FOR_BONUS = 1000;
 
